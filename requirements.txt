@@ -7,3 +7,5 @@ python-dotenv
 torch
 transformers
 groq
+SpeechRecognition
+
