@@ -8,4 +8,5 @@ torch
 transformers
 groq
 SpeechRecognition
+pyttsx3
 
