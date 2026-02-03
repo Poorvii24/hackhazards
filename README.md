@@ -1,9 +1,6 @@
 # 🚀 Project Title
 AI Wellness Companion – Your Personalized Food & Mood Coach
 
-## 📌 Problem Statement
-Problem Statement 2 – Smart Shopping – Data and AI for Personalized E-Commerce
-
 ## 🎯 Objective
 This project helps users understand the nutritional content of their meals using AI and mood analysis. It serves health-conscious individuals and those seeking personalized wellness insights.
 
